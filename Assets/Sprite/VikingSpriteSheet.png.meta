@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 333e9a743d3523a45a2f4017f449b809
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8860977788055499809
+    second: VikingSpriteSheet_0
+  - first:
+      213: -8962536546017991628
+    second: VikingSpriteSheet_1
+  - first:
+      213: 8280670182299477503
+    second: VikingSpriteSheet_2
+  - first:
+      213: 9168125697478503656
+    second: VikingSpriteSheet_3
+  - first:
+      213: 7331722106979487975
+    second: VikingSpriteSheet_4
+  - first:
+      213: 7027541984498629566
+    second: VikingSpriteSheet_5
+  - first:
+      213: 5561480753628609615
+    second: VikingSpriteSheet_6
+  - first:
+      213: 7088730718691268292
+    second: VikingSpriteSheet_7
+  - first:
+      213: 225546930142876411
+    second: VikingSpriteSheet_8
+  - first:
+      213: 8268499049348055180
+    second: VikingSpriteSheet_9
+  - first:
+      213: -6400221146437800822
+    second: VikingSpriteSheet_10
+  - first:
+      213: -2512627381580595561
+    second: VikingSpriteSheet_11
+  - first:
+      213: -7677979974580005281
+    second: VikingSpriteSheet_12
+  - first:
+      213: 7295322133122203319
+    second: VikingSpriteSheet_13
+  - first:
+      213: -7184659263852962320
+    second: VikingSpriteSheet_14
+  - first:
+      213: -4558145770010693759
+    second: VikingSpriteSheet_15
+  - first:
+      213: 2778487115995491764
+    second: VikingSpriteSheet_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VikingSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 855
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124bcabc95488fa70800000000000000
+      internalID: 8860977788055499809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 857
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43424283f7cae9380800000000000000
+      internalID: -8962536546017991628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 859
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5212e68a9dae270800000000000000
+      internalID: 8280670182299477503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 854
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec265e3fb9bb3f70800000000000000
+      internalID: 9168125697478503656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 606
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0146249628fb560800000000000000
+      internalID: 7331722106979487975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 604
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb3f2e8338d68160800000000000000
+      internalID: 7027541984498629566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 607
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c743987495e2d40800000000000000
+      internalID: 5561480753628609615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 601
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c61efbe70b306260800000000000000
+      internalID: 7088730718691268292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 604
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2985becbd412300800000000000000
+      internalID: 225546930142876411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 602
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80cb06b31c9fb270800000000000000
+      internalID: 8268499049348055180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 235
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ca1a2f6c8dd27a0800000000000000
+      internalID: -6400221146437800822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 298
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ef7fb75ba512dd0800000000000000
+      internalID: -2512627381580595561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 322
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56989e84e5527590800000000000000
+      internalID: -7677979974580005281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 236
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be3bcae3d03e3560800000000000000
+      internalID: 7295322133122203319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 167
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd13d92776fa4c90800000000000000
+      internalID: -7184659263852962320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 163
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f201082963eb0c0800000000000000
+      internalID: -4558145770010693759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VikingSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 18
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd29e99f4b2f8620800000000000000
+      internalID: 2778487115995491764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ce2cf464ae1403f429f817c671c9a010
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VikingSpriteSheet_0: 8860977788055499809
+      VikingSpriteSheet_1: -8962536546017991628
+      VikingSpriteSheet_10: -6400221146437800822
+      VikingSpriteSheet_11: -2512627381580595561
+      VikingSpriteSheet_12: -7677979974580005281
+      VikingSpriteSheet_13: 7295322133122203319
+      VikingSpriteSheet_14: -7184659263852962320
+      VikingSpriteSheet_15: -4558145770010693759
+      VikingSpriteSheet_16: 2778487115995491764
+      VikingSpriteSheet_2: 8280670182299477503
+      VikingSpriteSheet_3: 9168125697478503656
+      VikingSpriteSheet_4: 7331722106979487975
+      VikingSpriteSheet_5: 7027541984498629566
+      VikingSpriteSheet_6: 5561480753628609615
+      VikingSpriteSheet_7: 7088730718691268292
+      VikingSpriteSheet_8: 225546930142876411
+      VikingSpriteSheet_9: 8268499049348055180
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
