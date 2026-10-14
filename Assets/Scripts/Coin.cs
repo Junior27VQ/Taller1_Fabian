@@ -5,6 +5,13 @@ public class Coin : MonoBehaviour
     // Variable estatica para llevar la cuenta global de las monedas recolectadas
     public static int coinCount = 0;
 
+    // Se ejecuta al iniciar la escena o el juego
+    void Start()
+    {
+        // Reinicia el contador a 0 cada vez que inicia el nivel para evitar acumulaciones
+        coinCount = 0;
+    }
+    
     void OnTriggerEnter2D(Collider2D collision)
     {
         // Detecta si el objeto que colisiona es el jugador ("Player")

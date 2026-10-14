@@ -11,7 +11,7 @@ public class CoinUI : MonoBehaviour
         // Actualiza el texto en pantalla mostrando cuantas monedas llevamos recolectadas
         if (coinText != null)
         {
-            coinText.text = "Mpnedas: " + Coin.coinCount;
+            coinText.text = "Monedas: " + Coin.coinCount;
         }
     }
 }
