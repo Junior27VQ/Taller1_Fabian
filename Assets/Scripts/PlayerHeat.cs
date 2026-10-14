@@ -28,7 +28,7 @@ public class PlayerHeat : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D collision2D)
     {
-        // Al colisionar con un enemigo y no estar en periodo de invulnerabilidad, recibe daño
+        // Al colisionar con un enemigo y no estar en periodo de invulnerabilidad, recibe dano
         if (collision2D.gameObject.CompareTag("Enemy") && !isInvulnerable)
         {
             TakeDamage(collision2D.transform);
@@ -40,7 +40,7 @@ public class PlayerHeat : MonoBehaviour
         currentLives--;
         animator.SetTrigger("Hurt");
 
-        // Calcula la dirección del empujón basándose en la posición del enemigo respecto al jugador
+        // Calcula la direccion del empujon basandose en la posicion del enemigo respecto al jugador
         float knockbackDir = (transform.position.x < enemyTransform.position.x) ? -1f : 1f;
 
         // Aplica la fuerza física de retroceso al Rigidbody2D
@@ -54,7 +54,7 @@ public class PlayerHeat : MonoBehaviour
     {
         isInvulnerable = true;
 
-        // Desactivamos el movimiento en el PlayerController para que el empujón actúe libremente
+        // Desactivamos el movimiento en el PlayerController para que el empujon actue libremente
         if (playerController != null)
         {
             playerController.canMove = false;
@@ -83,7 +83,7 @@ public class PlayerHeat : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
-    // Método público que permite a otros scripts (como HealthUI) consultar las vidas restantes
+    // Metodo publico que permite a otros scripts (como HealthUI) consultar las vidas restantes
     public int GetCurrentLives()
     {
         return currentLives;

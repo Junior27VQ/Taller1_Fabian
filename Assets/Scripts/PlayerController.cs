@@ -6,12 +6,12 @@ public class PlayerController : MonoBehaviour
     private Animator animator;
     private bool facingRight = true;
 
-    [Header("Configuración de Movimiento")]
+    [Header("Configuracion de Movimiento")]
     public float moveSpeed = 5f;
     public float jumpForce = 7f;
     public bool isGrounded;
     
-    // Bandera pública que permite bloquear el movimiento temporalmente desde el script de salud (durante el empujón)
+    // Bandera publica que permite bloquear el movimiento temporalmente desde el script de salud (durante el empujon)
     [HideInInspector] public bool canMove = true;
 
     void Start()
@@ -22,10 +22,10 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        // 1. Leemos el input horizontal una sola vez aquí de forma limpia
+        // 1. Leemos el input horizontal una sola vez aqui de forma limpia
         float move = Input.GetAxis("Horizontal");
 
-        // 2. Gestionamos el giro del sprite según la dirección del input
+        // 2. Gestionamos el giro del sprite segun la direccion del input
         if (move > 0 && !facingRight)
         {
             Flip();
@@ -35,13 +35,13 @@ public class PlayerController : MonoBehaviour
             Flip();
         }
 
-        // 3. Si canMove es falso (por recibir daño), detenemos la actualización de velocidad de movimiento
+        // 3. Si canMove es falso (por recibir dano), detenemos la actualizacion de velocidad de movimiento
         if (!canMove) return;
 
-        // 4. Actualizamos el parámetro de velocidad en el Animator
+        // 4. Actualizamos el parametro de velocidad en el Animator
         animator.SetFloat("Speed", Mathf.Abs(move));
 
-        // 5. Aplicamos la velocidad horizontal manteniendo la física vertical actual
+        // 5. Aplicamos la velocidad horizontal manteniendo la fisica vertical actual
         rd.linearVelocity = new Vector2(move * moveSpeed, rd.linearVelocity.y);
 
         // 6. Sistema de salto
@@ -71,7 +71,7 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    // Método para voltear horizontalmente al personaje invirtiendo su escala X
+    // Metodo para voltear horizontalmente al personaje invirtiendo su escala X
     void Flip()
     {
         facingRight = !facingRight;
