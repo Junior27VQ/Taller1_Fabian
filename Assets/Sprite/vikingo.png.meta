@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 428d7e8e125be654e988d266de438437
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9154830048813570385
+    second: vikingo_0
+  - first:
+      213: -3600966034087095589
+    second: vikingo_1
+  - first:
+      213: -1036861693492940462
+    second: vikingo_2
+  - first:
+      213: -2586826266481230111
+    second: vikingo_3
+  - first:
+      213: -7668200159653037721
+    second: vikingo_4
+  - first:
+      213: 2086625480864543281
+    second: vikingo_5
+  - first:
+      213: 8941032477623585002
+    second: vikingo_6
+  - first:
+      213: 4717339695208617685
+    second: vikingo_7
+  - first:
+      213: -3502658098347984326
+    second: vikingo_8
+  - first:
+      213: -5312900841041249034
+    second: vikingo_9
+  - first:
+      213: 8378482968257164994
+    second: vikingo_10
+  - first:
+      213: 1912631771993020980
+    second: vikingo_11
+  - first:
+      213: 5232578664246698008
+    second: vikingo_12
+  - first:
+      213: -4766130119764068377
+    second: vikingo_13
+  - first:
+      213: 5840842078294953288
+    second: vikingo_14
+  - first:
+      213: 7254880299892910791
+    second: vikingo_15
+  - first:
+      213: 5647918105727446473
+    second: vikingo_16
+  - first:
+      213: -7737937179914543632
+    second: vikingo_17
+  - first:
+      213: 2988459966912010937
+    second: vikingo_18
+  - first:
+      213: -4188506417656908019
+    second: vikingo_19
+  - first:
+      213: 8364511281679738694
+    second: vikingo_20
+  - first:
+      213: -1148379196293010344
+    second: vikingo_21
+  - first:
+      213: -2735457697515050378
+    second: vikingo_22
+  - first:
+      213: -7526634503964998795
+    second: vikingo_23
+  - first:
+      213: 3430437401577796079
+    second: vikingo_24
+  - first:
+      213: -2339809495595181382
+    second: vikingo_25
+  - first:
+      213: -2854969572551609273
+    second: vikingo_26
+  - first:
+      213: -1355190446430534166
+    second: vikingo_27
+  - first:
+      213: 7374687480255188224
+    second: vikingo_28
+  - first:
+      213: -6072566646418614698
+    second: vikingo_29
+  - first:
+      213: -7734394168391272320
+    second: vikingo_30
+  - first:
+      213: 653684228119361789
+    second: vikingo_31
+  - first:
+      213: -4882999736104103672
+    second: vikingo_32
+  - first:
+      213: 2907843605568133967
+    second: vikingo_33
+  - first:
+      213: -25090371626530596
+    second: vikingo_34
+  - first:
+      213: -3108963568874060092
+    second: vikingo_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vikingo_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 865
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39173362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa62561339283f080800000000000000
+      internalID: -9154830048813570385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 866
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.48797053, y: 0.36767468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2ddf1887cc60ec0800000000000000
+      internalID: -3600966034087095589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 871
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.48797053, y: 0.3195562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251b42688c35c91f0800000000000000
+      internalID: -1036861693492940462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 868
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5481187, y: 0.35564464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee7cba573fb91cd0800000000000000
+      internalID: -2586826266481230111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_4
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 871
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5240595, y: 0.34361517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76979492594159590800000000000000
+      internalID: -7668200159653037721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 872
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.48797053, y: 0.2954967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132b536c1de25fc10800000000000000
+      internalID: 2086625480864543281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 713
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5962369, y: 0.3195562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae80cf1baade41c70800000000000000
+      internalID: 8941032477623585002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 713
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.6202961, y: 0.35564464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d652c1957b577140800000000000000
+      internalID: 4717339695208617685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_8
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 711
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5962369, y: 0.3195562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ab256740f046fc0800000000000000
+      internalID: -3502658098347984326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 711
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.57217795, y: 0.36767468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcbcd285d8c446b0800000000000000
+      internalID: -5312900841041249034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_10
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 709
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.57217795, y: 0.3315857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6f0a75ed9564470800000000000000
+      internalID: 8378482968257164994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_11
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 712
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5962369, y: 0.34361517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a15cb86780b8a10800000000000000
+      internalID: 1912631771993020980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 549
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5481185, y: 0.3315857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81066bd529add9840800000000000000
+      internalID: 5232578664246698008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 563
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.60826653, y: 0.33158514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e73c2a78ed4bddb0800000000000000
+      internalID: -4766130119764068377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_14
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 561
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5842074, y: 0.39173362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dcce19ce6de0150800000000000000
+      internalID: 5840842078294953288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_15
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 557
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5962369, y: 0.4278226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caa81bd1338ea460800000000000000
+      internalID: 7254880299892910791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_16
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 548
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35564464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cda16cd79f616e40800000000000000
+      internalID: 5647918105727446473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_17
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 549
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.50000054, y: 0.3195562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdd7e8d1235d9490800000000000000
+      internalID: -7737937179914543632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 380
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5842073, y: 0.33158514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba1441a184297920800000000000000
+      internalID: 2988459966912010937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_19
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 383
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.2954967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07bd14da9f6fd5c0800000000000000
+      internalID: -4188506417656908019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_20
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 375
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.47594106, y: 0.35564464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647a44091b6b41470800000000000000
+      internalID: 8364511281679738694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_21
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 379
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.48797053, y: 0.2714372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ca18194332010f0800000000000000
+      internalID: -1148379196293010344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_22
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 379
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5601485, y: 0.28346696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ae18997b3b90ad0800000000000000
+      internalID: -2735457697515050378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_23
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 375
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.6202964, y: 0.3075262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573c7f4ebc50c8790800000000000000
+      internalID: -7526634503964998795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 217
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5721777, y: 0.34361503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1324934ac5b9f20800000000000000
+      internalID: 3430437401577796079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_25
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 216
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5120296, y: 0.3195558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba96fc19a3578fd0800000000000000
+      internalID: -2339809495595181382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_26
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 217
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29549658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744338fcc4c1168d0800000000000000
+      internalID: -2854969572551609273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_27
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 212
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3556445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae541851875613de0800000000000000
+      internalID: -1355190446430534166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_28
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 220
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.51203, y: 0.29549643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d8126c037285660800000000000000
+      internalID: 7374687480255188224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_29
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 216
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5240601, y: 0.3195558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65655551fc8e9bba0800000000000000
+      internalID: -6072566646418614698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_30
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 51
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5360888, y: 0.39173308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0887f208b79e9a490800000000000000
+      internalID: -7734394168391272320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_31
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 49
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5481185, y: 0.31955546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df87454975a521900800000000000000
+      internalID: 653684228119361789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_32
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 55
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.51202977, y: 0.23534866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801503b7c991c3cb0800000000000000
+      internalID: -4882999736104103672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_33
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 57
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35564464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b97445a5cba5820800000000000000
+      internalID: 2907843605568133967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_34
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 52
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.50000054, y: 0.2714372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd80bef907cd6aff0800000000000000
+      internalID: -25090371626530596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vikingo_35
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 47
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5240595, y: 0.27143714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c681a92b1ebad4d0800000000000000
+      internalID: -3108963568874060092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a951b43a8b11bc245827b50f0a45f654
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vikingo_0: -9154830048813570385
+      vikingo_1: -3600966034087095589
+      vikingo_10: 8378482968257164994
+      vikingo_11: 1912631771993020980
+      vikingo_12: 5232578664246698008
+      vikingo_13: -4766130119764068377
+      vikingo_14: 5840842078294953288
+      vikingo_15: 7254880299892910791
+      vikingo_16: 5647918105727446473
+      vikingo_17: -7737937179914543632
+      vikingo_18: 2988459966912010937
+      vikingo_19: -4188506417656908019
+      vikingo_2: -1036861693492940462
+      vikingo_20: 8364511281679738694
+      vikingo_21: -1148379196293010344
+      vikingo_22: -2735457697515050378
+      vikingo_23: -7526634503964998795
+      vikingo_24: 3430437401577796079
+      vikingo_25: -2339809495595181382
+      vikingo_26: -2854969572551609273
+      vikingo_27: -1355190446430534166
+      vikingo_28: 7374687480255188224
+      vikingo_29: -6072566646418614698
+      vikingo_3: -2586826266481230111
+      vikingo_30: -7734394168391272320
+      vikingo_31: 653684228119361789
+      vikingo_32: -4882999736104103672
+      vikingo_33: 2907843605568133967
+      vikingo_34: -25090371626530596
+      vikingo_35: -3108963568874060092
+      vikingo_4: -7668200159653037721
+      vikingo_5: 2086625480864543281
+      vikingo_6: 8941032477623585002
+      vikingo_7: 4717339695208617685
+      vikingo_8: -3502658098347984326
+      vikingo_9: -5312900841041249034
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
