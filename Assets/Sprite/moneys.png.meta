@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: ee55acb28feacc748a084890bb5818fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6268595199099829635
+    second: moneys_0
+  - first:
+      213: 4506362482522352501
+    second: moneys_1
+  - first:
+      213: -461260167034220234
+    second: moneys_2
+  - first:
+      213: -6301862273053309007
+    second: moneys_3
+  - first:
+      213: -6850717172841132970
+    second: moneys_4
+  - first:
+      213: -8980851651061286748
+    second: moneys_5
+  - first:
+      213: -4195007325737999244
+    second: moneys_6
+  - first:
+      213: 3356882367489571246
+    second: moneys_7
+  - first:
+      213: -6168283720002817412
+    second: moneys_8
+  - first:
+      213: -7512322683085880510
+    second: moneys_9
+  - first:
+      213: -6268123572729372413
+    second: moneys_10
+  - first:
+      213: -5403151109486889118
+    second: moneys_11
+  - first:
+      213: -1567726741020123379
+    second: moneys_12
+  - first:
+      213: 7729293582402890929
+    second: moneys_13
+  - first:
+      213: -5996380191208631666
+    second: moneys_14
+  - first:
+      213: 2668216794653031224
+    second: moneys_15
+  - first:
+      213: -2615099350867739731
+    second: moneys_16
+  - first:
+      213: 6882911391344780857
+    second: moneys_17
+  - first:
+      213: 2430125802237829125
+    second: moneys_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: moneys_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 261
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b64e75dc0d98e30800000000000000
+      internalID: 4506362482522352501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneys_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 262
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63153ea62564999f0800000000000000
+      internalID: -461260167034220234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneys_3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 261
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7c83fb6a94b88a0800000000000000
+      internalID: -6301862273053309007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneys_4
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 261
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cc228270d5de0a0800000000000000
+      internalID: -6850717172841132970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneys_5
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 258
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8f206810b9d5380800000000000000
+      internalID: -8980851651061286748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneys_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 138
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9fcfa4aba069e20800000000000000
+      internalID: 3356882367489571246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneys_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 133
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72386b33aad56aa0800000000000000
+      internalID: -6168283720002817412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneys_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 133
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2438e8c525edeb790800000000000000
+      internalID: -7512322683085880510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneys_10
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 137
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301a63f02d62309a0800000000000000
+      internalID: -6268123572729372413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneys_11
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 135
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267b64b61b62405b0800000000000000
+      internalID: -5403151109486889118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneys_12
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 136
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f5d90d5d05e3ae0800000000000000
+      internalID: -1567726741020123379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneys_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bca4d7cf87f34b60800000000000000
+      internalID: 7729293582402890929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneys_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 14
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8212dc7cf398cca0800000000000000
+      internalID: -5996380191208631666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneys_15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 17
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b7605b909670520800000000000000
+      internalID: 2668216794653031224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneys_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 11
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab7c2beefc45bbd0800000000000000
+      internalID: -2615099350867739731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneys_17
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 14
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93668957173058f50800000000000000
+      internalID: 6882911391344780857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moneys_18
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 15
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500a5e1ba8a89b120800000000000000
+      internalID: 2430125802237829125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5d478a7d25ae02f4e850758c7fa13460
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      moneys_0: 6268595199099829635
+      moneys_1: 4506362482522352501
+      moneys_10: -6268123572729372413
+      moneys_11: -5403151109486889118
+      moneys_12: -1567726741020123379
+      moneys_13: 7729293582402890929
+      moneys_14: -5996380191208631666
+      moneys_15: 2668216794653031224
+      moneys_16: -2615099350867739731
+      moneys_17: 6882911391344780857
+      moneys_18: 2430125802237829125
+      moneys_2: -461260167034220234
+      moneys_3: -6301862273053309007
+      moneys_4: -6850717172841132970
+      moneys_5: -8980851651061286748
+      moneys_6: -4195007325737999244
+      moneys_7: 3356882367489571246
+      moneys_8: -6168283720002817412
+      moneys_9: -7512322683085880510
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
