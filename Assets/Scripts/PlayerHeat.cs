@@ -35,15 +35,17 @@ public class PlayerHeat : MonoBehaviour
         }
     }
 
-    void TakeDamage(Transform enemyTransform)
+    public void TakeDamage(Transform enemyTransform)
     {
+        if(isInvulnerable) return;
+        
         currentLives--;
         animator.SetTrigger("Hurt");
 
         // Calcula la direccion del empujon basandose en la posicion del enemigo respecto al jugador
         float knockbackDir = (transform.position.x < enemyTransform.position.x) ? -1f : 1f;
 
-        // Aplica la fuerza física de retroceso al Rigidbody2D
+        // Aplica la fuerza fisica de retroceso al Rigidbody2D
         rd.linearVelocity = new Vector2(knockbackForceX * knockbackDir, knockbackForceY);
 
         // Inicia la corrutina para gestionar la invulnerabilidad temporal
