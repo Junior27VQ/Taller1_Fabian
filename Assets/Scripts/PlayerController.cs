@@ -3,13 +3,16 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     private Rigidbody2D rd;
-    private Animator animator;
+    private Animator animator; //Control de animaciones
     private bool facingRight = true;
 
     [Header("Configuracion de Movimiento")]
-    public float moveSpeed = 5f;
-    public float jumpForce = 7f;
-    public bool isGrounded;
+    public float moveSpeed = 5f; // velocidad de movimiento
+    public float jumpForce = 7f; //fuerza de salto
+    public bool isGrounded;  //vericar si esta en el suelo
+
+    [Header("Efectos visuales")]
+    public GameObject polvoSaltoPrefabs;
     
     // Bandera publica que permite bloquear el movimiento temporalmente desde el script de salud (durante el empujon)
     [HideInInspector] public bool canMove = true;
@@ -49,6 +52,15 @@ public class PlayerController : MonoBehaviour
         {
             rd.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
             isGrounded = false;
+            //animator.SetBool("isJump", true);
+
+            if(polvoSaltoPrefabs != null){
+                Instantiate(polvoSaltoPrefabs, transform.position, Quaternion.identity);
+            }
+
+            if(AudioManager.Instance != null){
+                AudioManager.Instance.ReproducirSfx(AudioManager.Instance.sonidoSalto);
+            }
         }
     }
 

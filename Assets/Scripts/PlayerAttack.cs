@@ -20,6 +20,10 @@ public class PlayerAttack : MonoBehaviour
     void Update()
     {
         if(Input.GetKeyDown(KeyCode.Z) || Input.GetMouseButtonDown(0)){
+            if(AudioManager.Instance != null){
+                AudioManager.Instance.ReproducirSfx(AudioManager.Instance.sonidoGolpe);
+            }
+
             Attack();
         }
     }

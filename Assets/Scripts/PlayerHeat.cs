@@ -50,6 +50,11 @@ public class PlayerHeat : MonoBehaviour
 
         // Inicia la corrutina para gestionar la invulnerabilidad temporal
         StartCoroutine(InvulnerabilityRoutine());
+
+        // Movimiento de camara
+        if(CameraShake.Instance != null){
+            CameraShake.Instance.Sacudir(0.15f, 02f);
+        }
     }
 
     IEnumerator InvulnerabilityRoutine()

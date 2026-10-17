@@ -17,6 +17,9 @@ public class Coin : MonoBehaviour
         // Detecta si el objeto que colisiona es el jugador ("Player")
         if (collision.CompareTag("Player"))
         {
+            if(AudioManager.Instance != null){
+                AudioManager.Instance.ReproducirSfx(AudioManager.Instance.sonidoMoneda);
+            }
             coinCount++; // Aumenta en 1 el contador de monedas
             Destroy(gameObject); // Destruye la moneda actual de la escena
         }
