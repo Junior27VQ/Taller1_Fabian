@@ -254,3 +254,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d72870e837a114742b403e269a21b37c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
+  MaxHealth: 3
+  currentHealth: 0
+  knockbackForceX: 4
+  knockbackForceY: 2

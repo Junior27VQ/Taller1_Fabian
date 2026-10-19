@@ -19,8 +19,10 @@ public class PlayerAttack : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Z) || Input.GetMouseButtonDown(0)){
-            if(AudioManager.Instance != null){
+        if(Input.GetKeyDown(KeyCode.Z) || Input.GetMouseButtonDown(0))
+        {
+            if(AudioManager.Instance != null)
+            {
                 AudioManager.Instance.ReproducirSfx(AudioManager.Instance.sonidoGolpe);
             }
 
@@ -29,26 +31,37 @@ public class PlayerAttack : MonoBehaviour
     }
 
     void Attack(){
-        if(animator != null){
+        if(animator != null)
+        {
             // Activamos la animacion mediante el Trigger
             animator.SetTrigger("Attack");
         }
 
         // Detecta todos los enemigos dentro del circulo de impacto (Hitbox)
         Collider2D[] hitEnemis = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayer);
-        foreach(Collider2D enemy in hitEnemis){
-            // Busca el script EnemyHealth en el enemigo golpeado
+        foreach(Collider2D enemy in hitEnemis)
+        {
+            // Enemigos normales
             EnemyHealth enemyHealth = enemy.GetComponent<EnemyHealth>();
 
-            if(enemyHealth != null){
-                // Le pasamos el dano y la posicion del jugador actual para calcular el empujon
+            if(enemyHealth != null)
+            {
                 enemyHealth.TakeDamage(attackDamage, transform);
+            }
+
+            // Boss
+            BossController boss = enemy.GetComponent<BossController>();
+
+            if(boss != null)
+            {
+                boss.TakeDamage(attackDamage, transform);
             }
         }
     }
 
     // Dibujamos el radio del ataque definido por AttackPoint
-    private void OnDrawGizmosSelected(){
+    private void OnDrawGizmosSelected()
+    {
         if(attackPoint == null) return;
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(attackPoint.position, attackRange);

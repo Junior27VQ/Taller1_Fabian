@@ -19,20 +19,24 @@ public class EnemyHealth : MonoBehaviour
         enemyRb = GetComponent<Rigidbody2D>();
     }
 
-    public void TakeDamage(int damageAmout, Transform attackTransform){
+    public void TakeDamage(int damageAmout, Transform attackTransform)
+    {
         currentHealth -= damageAmout;
 
         // Aplicamos empujon 
-        if(enemyRb != null){
+        if(enemyRb != null)
+        {
             float knockbackDir = (transform.position.x < attackTransform.position.x) ? -1f : 1f;
             enemyRb.linearVelocity = new Vector2(knockbackDir, knockbackForceY);
         }
-        if(currentHealth <= 0){
+        if(currentHealth <= 0)
+        {
             Die();
         }
     }
 
-    public void Die(){
+    public void Die()
+    {
         Destroy(gameObject);
     }
 

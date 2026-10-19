@@ -7,9 +7,9 @@ public class EnemyPatrol : MonoBehaviour
     private bool movingRight = true;
 
     [Header("Detectores")]
-    public Transform groundCheck;
-    public float distanceToGround = 1.5f;
-    public float distanceToToWall = 1.5f;
+    public Transform groundCheck; //verificacion en tierra
+    public float distanceToGround = 1.5f; //distancia al suale
+    public float distanceToToWall = 1.5f; //distancia a la pared
     public LayerMask groundLayer;
 
     private Rigidbody2D rb;
@@ -30,21 +30,25 @@ public class EnemyPatrol : MonoBehaviour
 
         RaycastHit2D isWallsAhead = Physics2D.Raycast(transform.position, direction, distanceToToWall, groundLayer);
 
-        if(isGroundAhead.collider == null || isWallsAhead.collider != null){
+        if(isGroundAhead.collider == null || isWallsAhead.collider != null)
+        {
             Flip();
         }
     }
 
-    void Flip(){
+    void Flip()
+    {
         movingRight = !movingRight;
         Vector3 scale = transform.localScale;
         scale.x *= -1;
         transform.localScale = scale;
     }
 
-    private void OnDrawGizmos(){
+    private void OnDrawGizmos()
+    {
         Gizmos.color = Color.red;
-        if(groundCheck != null){
+        if(groundCheck != null)
+        {
             Gizmos.DrawRay(groundCheck.position, Vector2.down * distanceToGround);
         }
         Vector2 direction = movingRight ? Vector2.right : Vector2.left;
